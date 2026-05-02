@@ -1,0 +1,16 @@
+gl_account_id,gl_account_name,gl_account_type
+1,Rent / Lease,Fixed
+2,Software Licenses,Fixed
+3,Salaries,Fixed
+4,Insurance Premiums,Fixed
+5,Cloud Hosting / IT Svcs,Semi-fixed
+6,Utilities,Semi-fixed
+7,Office Supplies,Variable
+8,Training & Development,Variable
+9,Miscellaneous,Variable
+10,Legal / Professional,Variable
+11,Recruitment / Hiring,Variable
+12,Contractor / Freelancer,Variable
+13,Equipment / Hardware,Variable
+14,Travel & Transportation,Variable
+15,Marketing / Advertising,Variable
